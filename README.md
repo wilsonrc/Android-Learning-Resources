@@ -23,4 +23,6 @@ This is a set of learning resources about Android and software development that 
 - [Starting Background Services](https://guides.codepath.com/android/Starting-Background-Services) This resources will help you to start using Background Services.
 - [Android Services - Tutorial](http://www.vogella.com/tutorials/AndroidServices/article.html) This is a complete tutorial about services.
 
-
+### UI/UX  
+- [MaterialUp](https://www.uplabs.com/android) UI/UX Inspiration 
+- [Material Design for Android Developers] (https://www.udacity.com/course/material-design-for-android-developers--ud862) With this Course you'll understand how to create and use material design elements, surfaces, transitions and graphics in your app.
