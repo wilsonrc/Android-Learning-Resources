@@ -25,4 +25,4 @@ This is a set of learning resources about Android and software development that 
 
 ### UI/UX  
 - [MaterialUp](https://www.uplabs.com/android) UI/UX Inspiration 
-- [Material Design for Android Developers] (https://www.udacity.com/course/material-design-for-android-developers--ud862) With this Course you'll understand how to create and use material design elements, surfaces, transitions and graphics in your app.
+- [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) With this Course you'll understand how to create and use material design elements, surfaces, transitions and graphics in your app.
