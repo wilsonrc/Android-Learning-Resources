@@ -5,6 +5,10 @@ This is a set of learning resources about Android and software development that 
 ## Articles & Courses
 
 ### General
+- [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836) By the end of this course, you will have learned how to make your app interactive using buttons and changing text.
+- [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839) By the end of the course, you’ll build a language-learning app that you can share with your friends.
+- [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843) By the end of the course, you’ll build an app that gets you up to date earthquake information
+- [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) In this course, you will learn about the importance of data persistence when building an Android app. We'll introduce you to the fundamentals of SQL, the programming language needed to interact with an SQLite relational database.
 - [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851) This course blends theory and practice to help you build great apps the right way. 
 - [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) In this course, you will learn how to make your app production-ready by developing a variety of different sample apps, each designed to showcase advanced capabilities of the Android platform, including fragments, widgets, media playback, and testing. 
 - [Android Code Path](https://guides.codepath.com/android) Central crowdsourced resource for complete and up-to-date practical Android developer guides for any topic.
