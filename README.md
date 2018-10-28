@@ -37,3 +37,6 @@ This is a set of learning resources about Android and software development that 
 
 ### Reactive Programming
 - [Reactive Programming with RxAndroid and Kotlin](https://app.pluralsight.com/library/courses/rxandroid-kotlin-reactive-programming/table-of-contents) This course will teach you how to chain network calls, handle user input and cache data, using RxJava and MVVM architecture
+
+### Testing
+- [Effective Android Testing for Mobile Developers](https://www.linkedin.com/learning/effective-android-testing-for-mobile-developers) This course will teach you the difference between knowing how to implement testing and knowing when and why to do it.
