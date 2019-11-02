@@ -13,6 +13,7 @@ This is a set of learning resources about Android and software development that 
 - [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) In this course, you will learn how to make your app production-ready by developing a variety of different sample apps, each designed to showcase advanced capabilities of the Android platform, including fragments, widgets, media playback, and testing. 
 - [Android Code Path](https://guides.codepath.com/android) Central crowdsourced resource for complete and up-to-date practical Android developer guides for any topic.
 - [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) Learn to architect and develop Android apps in the Kotlin programming language using industry-proven tools and libraries.
+- [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) Go beyond the basics of building an Android app with "Advanced Android with Kotlin". This course teaches you how to add a range of advanced features to your app, starting with best practices for using Android's notification system. You'll learn how to create and clip custom views, draw directly to a canvas, and add animations to your apps. 
 
 ### Activities
 
